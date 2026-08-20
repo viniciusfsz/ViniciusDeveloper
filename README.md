@@ -1,38 +1,43 @@
-# 👨‍💻 Vinícius Souza — Portfólio Profissional
+# 👨‍💻 Vinícius Souza — Front-End Developer
 
-Este é o meu **portfólio profissional**, desenvolvido para apresentar minha trajetória, habilidades, projetos e experiência como **Front-End Developer**.
+Bem-vindo ao repositório do meu **Portfólio Profissional**. 🚀
 
-O projeto reúne alguns dos meus principais trabalhos e demonstra minha evolução na criação de **interfaces modernas, responsivas e focadas na experiência do usuário**.
+Este projeto foi desenvolvido para apresentar minhas **habilidades, conhecimentos e projetos como Desenvolvedor Front-End**, demonstrando na prática minha experiência na criação de interfaces modernas, responsivas e funcionais.
 
-🌐 **Portfólio online:**
+🌐 **Acesse o portfólio:**
 https://viniciusdeveloper.vercel.app/
 
 ---
 
-## 🚀 Sobre o Projeto
+## 👨‍💻 Sobre Mim
 
-O portfólio foi desenvolvido com o objetivo de centralizar minha apresentação profissional, habilidades e principais projetos em uma experiência moderna, organizada e responsiva.
+Olá! Sou **Vinícius Souza**, Desenvolvedor Front-End focado na criação de interfaces modernas, responsivas e intuitivas.
 
-Nele é possível conhecer mais sobre meu trabalho, tecnologias utilizadas, projetos desenvolvidos e formas de contato.
+Busco constantemente evoluir minhas habilidades em desenvolvimento web, criando projetos que unem **design, tecnologia, usabilidade e experiência do usuário**.
 
-### ✨ Principais características
+Atualmente, estou aberto a **oportunidades profissionais na área de desenvolvimento Front-End**, onde possa contribuir com meus conhecimentos, aprender com novos desafios e continuar evoluindo como desenvolvedor. 🚀
 
-* 🎨 Interface moderna e profissional
-* 📱 Layout totalmente responsivo
-* 🖥️ Apresentação dos principais projetos
-* 👨‍💻 Seção sobre minha trajetória profissional
-* 🛠️ Apresentação das tecnologias e habilidades
-* 🔗 Links para projetos e redes profissionais
-* 💬 Integração com WhatsApp
-* ✨ Animações e interações
-* 📲 Experiência otimizada para dispositivos móveis
-* ⚡ Navegação simples e intuitiva
+---
+
+## 🎯 Objetivo do Portfólio
+
+Este portfólio foi criado para reunir meus principais projetos e apresentar minhas habilidades de forma prática.
+
+Aqui você poderá encontrar trabalhos envolvendo:
+
+* 🌐 Desenvolvimento Web
+* 🎨 Interfaces modernas
+* 📱 Responsive Design
+* ⚡ Interatividade
+* 🧩 Componentes de interface
+* 🎯 Landing Pages
+* 💻 Projetos Front-End
 
 ---
 
 ## 🛠️ Tecnologias
 
-O projeto foi desenvolvido utilizando:
+Tecnologias utilizadas no desenvolvimento dos meus projetos:
 
 * 🟠 **HTML5**
 * 🔵 **CSS3**
@@ -44,9 +49,46 @@ O projeto foi desenvolvido utilizando:
 
 ---
 
+## 💡 Conhecimentos
+
+Além das tecnologias utilizadas neste projeto, possuo conhecimentos em:
+
+* 💻 Desenvolvimento Front-End
+* 📱 Responsive Web Design
+* 🎨 UI/UX
+* 🧩 Criação de interfaces
+* ⚡ Manipulação do DOM
+* 🔄 Git e controle de versão
+* 🐙 GitHub
+* 🖼️ Photoshop
+* 🎨 CorelDRAW
+* 💻 VS Code
+
+---
+
+## 💼 Projetos
+
+O portfólio reúne projetos desenvolvidos para colocar meus conhecimentos em prática e demonstrar minhas habilidades como Desenvolvedor Front-End.
+
+Os projetos exploram conceitos como:
+
+* 📐 Estruturação de páginas
+* 🎨 Estilização de interfaces
+* 📱 Responsividade
+* ⚡ Interatividade com JavaScript
+* 🧭 Navegação e experiência do usuário
+* 💻 Desenvolvimento de aplicações web
+* 🚀 Boas práticas de desenvolvimento
+
+Confira todos os projetos diretamente no meu portfólio:
+
+🌐 **https://viniciusdeveloper.vercel.app/**
+
+---
+
 ## 📱 Responsividade
 
-O portfólio foi desenvolvido seguindo princípios de **Responsive Web Design**, proporcionando uma experiência consistente em diferentes dispositivos.
+O portfólio foi desenvolvido seguindo princípios de **Responsive Web Design**, proporcionando uma boa experiência em diferentes dispositivos.
 
 Compatível com:
 
@@ -57,9 +99,23 @@ Compatível com:
 
 ---
 
+## ✨ Funcionalidades
+
+* 🎨 Interface moderna
+* 📱 Layout responsivo
+* 🖥️ Apresentação dos projetos
+* 👨‍💻 Seção sobre mim
+* 🛠️ Tecnologias e habilidades
+* 🔗 Links para projetos
+* 📬 Área de contato
+* ✨ Animações e interações
+* ⚡ Navegação simples e intuitiva
+
+---
+
 ## 📂 Estrutura do Projeto
 
-```text
+```text id="j0xtdi"
 portfolio/
 │
 ├── index.html
@@ -74,72 +130,9 @@ portfolio/
 └── README.md
 ```
 
-> A estrutura pode variar conforme a organização atual dos arquivos do projeto.
-
 ---
 
-## 💼 Projetos
-
-O portfólio reúne projetos desenvolvidos para demonstrar minhas habilidades em **desenvolvimento Front-End, criação de interfaces e soluções digitais**.
-
-Os projetos envolvem diferentes desafios e aplicações, como:
-
-* 🌐 Sites profissionais
-* 🎯 Landing Pages
-* 🎨 UI/UX
-* 📱 Design responsivo
-* 💻 Desenvolvimento Front-End
-* ⚡ Interatividade com JavaScript
-* 🏢 Soluções digitais para empresas e profissionais
-
----
-
-## 🧠 Habilidades
-
-Além do desenvolvimento Front-End, trabalho com tecnologias, ferramentas e conceitos relacionados a:
-
-* 🌐 Desenvolvimento Web
-* 🎨 UI/UX
-* 📱 Responsive Design
-* 🤖 Inteligência Artificial aplicada a soluções digitais
-* 🖼️ Photoshop
-* 🎨 CorelDRAW
-* 🌿 Git & GitHub
-* 💻 VS Code
-
----
-
-## 👨‍💻 Sobre Mim
-
-### Vinícius Souza
-
-Sou **Front-End Developer**, focado na criação de experiências digitais modernas, funcionais e responsivas.
-
-Busco transformar ideias em interfaces que unam **design, tecnologia e experiência do usuário**, desenvolvendo soluções para empresas, profissionais e negócios que desejam fortalecer sua presença no ambiente digital.
-
-Também sou **Founder da Codex Agency**, onde trabalho com desenvolvimento web e soluções digitais para empresas.
-
----
-
-## 🏢 Codex Agency
-
-Além dos meus projetos como desenvolvedor, sou fundador da **Codex Agency**, uma agência focada na criação de soluções digitais para empresas e profissionais.
-
-A Codex trabalha com:
-
-* 🌐 Desenvolvimento de sites
-* 🎯 Landing Pages
-* 🤖 Agentes de IA
-* 💬 IA integrada ao WhatsApp
-* 📱 Social Media
-* 🚀 Soluções digitais personalizadas
-
-🌐 **Website:**
-https://agcodex.com/
-
----
-
-## 🔗 Links
+## 🔗 Links Profissionais
 
 🌐 **Portfólio**
 https://viniciusdeveloper.vercel.app/
@@ -150,29 +143,20 @@ https://github.com/viniciusfsz
 💼 **LinkedIn**
 https://www.linkedin.com/in/viniciusfsz
 
-🏢 **Codex Agency**
-https://agcodex.com/
-
 ---
 
 ## 📬 Contato
 
-Estou disponível para **projetos, oportunidades profissionais, freelas e novas parcerias**.
+Estou aberto a **oportunidades profissionais como Desenvolvedor Front-End**, além de novos desafios que possam contribuir para minha evolução na área de tecnologia.
 
-Entre em contato através das minhas redes profissionais ou pelos canais disponíveis no meu portfólio.
-
----
-
-## ⭐ Apoie o Projeto
-
-Se você gostou do projeto, considere deixar uma **⭐ Star** no repositório.
-
-Isso ajuda a destacar o projeto e acompanhar sua evolução.
+Para entrar em contato comigo, utilize o LinkedIn ou os canais disponíveis no meu portfólio. 📩
 
 ---
 
-### 💻 Código. Design. Tecnologia.
+## ⭐ Projeto
 
-**Transformando ideias em experiências digitais. 🚀**
+Se este projeto chamou sua atenção, fique à vontade para explorar o código e conhecer meus outros trabalhos disponíveis no GitHub.
 
-© 2026 **Vinícius Souza** — Todos os direitos reservados.
+### 🚀 Sempre aprendendo, desenvolvendo e evoluindo.
+
+© 2026 **Vinícius Souza**
